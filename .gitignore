@@ -1,0 +1,7 @@
+infrastructure-states/aws-cicd/variables.tf
+**/*.tfstate
+**/.terraform/*
+**/.terraform
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.tfstate.lock.info
